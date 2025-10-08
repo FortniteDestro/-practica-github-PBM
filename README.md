@@ -2,4 +2,4 @@
 ## Sobre mí
 - Nombre: Pablo Berna
 - Curso: 1ºDAM
-- Afición: <Me guta la piña>
+- Afición: Me guta la piña
